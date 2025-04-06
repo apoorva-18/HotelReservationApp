@@ -1,1 +1,1 @@
-# BusReservationApp
+# HotelReservationApp
